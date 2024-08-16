@@ -19,6 +19,7 @@ python -m Palette.run -p train -c ./Palette/config/lom2sem.json
 
 ## Pix2PixHD
 Pix2PixHD is a conditional image generation model with a GAN architecture and standard MLP models. [Paper](https://arxiv.org/pdf/1711.11585.pdf) | [Official Implementation](https://github.com/NVIDIA/pix2pixHD) | [Project](https://tcwang0509.github.io/pix2pixHD/)
+
 To train a Pix2PixGAN model, run the following command:
 ```bash
 python -m Pix2Pix.train_p2phd --config Pix2Pix/configs/lom2sem.yaml
@@ -26,7 +27,9 @@ python -m Pix2Pix.train_p2phd --config Pix2Pix/configs/lom2sem.yaml
 
 ## Palette
 Palette is a conditional image generation framework for diffusion models with a Unet architecture.  [Paper](https://arxiv.org/pdf/2111.05826.pdf) | [Official Implementation](https://iterative-refinement.github.io/palette/)
+
 This implementation was built using this unofficial pytorch implementation: [Palette-Image-to-Image-Diffusion-Models](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)
+
 To train a Palette model, run the following command:
 ```bash
 python -m Palette.run -p train -c ./Palette/config/lom2sem.json
