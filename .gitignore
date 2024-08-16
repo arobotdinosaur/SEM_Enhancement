@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*__pycache__/
+
+# Data files
+*.tif
+*.pkl
+
+# Mac OS
+*.DS_Store
+
+data/mecs_steel/*/*.txt
+results/
+
+venv/

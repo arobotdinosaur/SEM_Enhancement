@@ -1,0 +1,17 @@
+numpy 
+pandas
+tqdm
+scipy
+opencv-python
+clean-fid
+Pillow 
+PyYAML 
+tensorboard
+torch>=2.2  
+torchvision
+matplotlib
+pytz
+Werkzeug 
+yacs=0.1.8
+psutil
+ninja
