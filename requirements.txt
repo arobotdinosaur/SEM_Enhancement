@@ -12,6 +12,6 @@ torchvision
 matplotlib
 pytz
 Werkzeug 
-yacs=0.1.8
+yacs==0.1.8
 psutil
 ninja
