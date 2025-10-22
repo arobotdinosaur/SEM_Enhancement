@@ -18,8 +18,8 @@
             "which_dataset": {  // import designated dataset using arguments 
                 "name": ["Palette.data.dataset", "LOM2SEMDataset"], // import Dataset() class / function(not recommend) from data.dataset.py (default is [data.dataset.py])
                 "args":{ // arguments to initialize dataset
-                    "LOM_data_root": "",
-                    "SEM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/20250828_Alumina_SEM_highquality",
+                    "LOM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/blurred",
+                    "SEM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/cropped_alumina_highquality",
                     "data_flist": "",
                     "data_len": -1
                 } 
