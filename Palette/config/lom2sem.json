@@ -46,8 +46,8 @@
             "which_dataset": {
                 "name": ["Palette.data.dataset", "LOM2SEMDataset"], // import Dataset() class / function(not recommend) from default file
                 "args":{
-                    "LOM_data_root": "",
-                    "SEM_data_root": "",
+                    "LOM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/test_blurred",
+                    "SEM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/test_highquality",
                     "data_flist": ""
                 }
             },
