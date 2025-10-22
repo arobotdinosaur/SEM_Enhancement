@@ -20,7 +20,7 @@
                 "args":{ // arguments to initialize dataset
                     "LOM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/blurred",
                     "SEM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/cropped_alumina_highquality",
-                    "data_flist": "",
+                    "data_flist": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/file_list_cropped.txt",
                     "data_len": -1
                 } 
             },
@@ -48,7 +48,7 @@
                 "args":{
                     "LOM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/test_blurred",
                     "SEM_data_root": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/test_highquality",
-                    "data_flist": ""
+                    "data_flist": "/content/drive/MyDrive/Ghazinejad Lab Drive/MRS2026Nanocrystals/Images/file_list_cropped_test.txt"
                 }
             },
             "dataloader":{
